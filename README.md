@@ -4,6 +4,8 @@ See your remaining Codex quota and review approval requests from the DankBar
 panel. The widget connects to the native Codex background server, so approvals
 work when you start Codex from your terminal as usual.
 
+![Codex usage in DankBar with remaining 5-hour and 7-day quota and reset times](docs/codex-usage.png)
+
 ## Install
 
 You need DankMaterialShell, Python 3, and Codex CLI. Sign in with ChatGPT to
