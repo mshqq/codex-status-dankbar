@@ -1,0 +1,18 @@
+{
+  "id": "codexStatus",
+  "name": "Codex Status",
+  "description": "Shows Codex quota and reviews pending approvals in DankBar",
+  "version": "1.4.1",
+  "author": "mshqq",
+  "type": "widget",
+  "capabilities": [
+    "dankbar-widget"
+  ],
+  "component": "./CodexStatus.qml",
+  "permissions": [
+    "process",
+    "network",
+    "settings_write"
+  ],
+  "settings": "./CodexSettings.qml"
+}
